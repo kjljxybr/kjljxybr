@@ -34,4 +34,4 @@
 [![artemoax@gmail.com](https://img.shields.io/badge/artemoax@gmail.com%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:artemoax@gmail.com)
 [![kjljxybr](https://img.shields.io/badge/kjljxybr%20-%23fff.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kjljxybr)
 
-##### ✍️ Inspired by [@vas3k](https://github.com/vas3k)
+#### ✍️ Inspired by [@vas3k](https://github.com/vas3k)
