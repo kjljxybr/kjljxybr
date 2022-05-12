@@ -27,11 +27,11 @@
 ![react](https://img.shields.io/badge/react%20-%23000.svg?&style=for-the-badge&logo=react&logoColor=88dded)
 ![redux](https://img.shields.io/badge/redux%20-%23000.svg?&style=for-the-badge&logo=redux&logoColor=7649bb)
 ![next.js](https://img.shields.io/badge/next.js%20-%23fff.svg?&style=for-the-badge&logo=next.js&logoColor=000)
-![styled components](https://img.shields.io/badge/styled%20components%20-%237649bb.svg?&style=for-the-badge&logo=styled-components&logoColor=fff)
+![styled components](https://img.shields.io/badge/styled%20components%20-%23353535.svg?&style=for-the-badge&logo=styled-components&logoColor=fb92dd)
 
 ## 🤝 Connect with me
 
 [![artemoax@gmail.com](https://img.shields.io/badge/artemoax@gmail.com%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:artemoax@gmail.com)
 [![kjljxybr](https://img.shields.io/badge/kjljxybr%20-%23fff.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kjljxybr)
 
-## ✍️ Inspired by [@vas3k](https://github.com/vas3k)
+##### ✍️ Inspired by [@vas3k](https://github.com/vas3k)
